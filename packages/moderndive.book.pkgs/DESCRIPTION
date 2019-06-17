@@ -7,4 +7,26 @@ Author: msfz751
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
-Imports: logging
+Imports: logging,
+  assertive,
+  nycflights13,
+  ggplot2movies,
+  fivethirtyeight,
+  gapminder,
+  ISLR,
+  tidyverse,
+  rmarkdown,
+  knitr, 
+  plotly, 
+  janitor, 
+  skimr,
+  infer, 
+  moderndive,
+  webshot,
+  mvtnorm, 
+  remotes, 
+  devtools, 
+  dygraphs, 
+  gridExtra, 
+  kableExtra
+RoxygenNote: 6.1.1
